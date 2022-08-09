@@ -1,0 +1,2 @@
+# .gelogic
+Apps
